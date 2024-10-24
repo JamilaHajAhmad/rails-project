@@ -1,4 +1,6 @@
 # README
+## Rails Project Repository
+![GithubCatGIF](https://github.com/user-attachments/assets/35809ee3-416a-45f1-bf1a-0876f8a7913e)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
