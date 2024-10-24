@@ -1,24 +1,4 @@
-# README
+# Polymorphism in RoR
+Polymorphism in Ruby on Rails (RoR) refers to a feature of Active Record associations that allows a model to interact with multiple other models through a single interface. This is implemented using polymorphic associations, which enable a single model to belong to multiple other models on a single association. For example, a Comment model could belong to both a Post model and a Photo model, allowing for greater flexibility and DRY (Don't Repeat Yourself) code.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It's advisable to consult the official Rails documentation for more detailed information and examples.
